@@ -7,7 +7,7 @@
 5、最后进行项目的测试、运行维护、BUG调试进行一系列的优化。
 6、对代码的规范程度有了新的认识并进行调整。
 # 截图
-![image](https://github.com/JayKuzzi/JavaEE/tree/master/app/appshot/1.png)
-![image](https://github.com/JayKuzzi/JavaEE/tree/master/app/appshot/2.png)
-![image](https://github.com/JayKuzzi/JavaEE/tree/master/app/appshot/3.png)
-![image](https://github.com/JayKuzzi/JavaEE/tree/master/app/appshot/4.png)
+![image](https://github.com/JayKuzzi/JavaEE/blob/master/app/appshot/1.png)
+![image](https://github.com/JayKuzzi/JavaEE/blob/master/app/appshot/2.png)
+![image](https://github.com/JayKuzzi/JavaEE/blob/master/app/appshot/3.png)
+![image](https://github.com/JayKuzzi/JavaEE/blob/master/app/appshot/4.png)
